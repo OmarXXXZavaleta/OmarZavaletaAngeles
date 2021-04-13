@@ -25,7 +25,8 @@ public class Vacante {
 	private Double salario;// salario que se oferta en la oferta
 	//variable adicional 
 	private Integer destacado; // 1= destacada
-	private String imagen="don crangejo.jpg";
+	//private String imagen="don crangejo.jpg";
+	private String imagen="carro1.jpg";
 	private String estatus;
 	private String detalles;
 	
