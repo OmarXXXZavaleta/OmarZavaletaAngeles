@@ -14,7 +14,6 @@ Este es un proyecto donde se pone en practica los conocimientos adquiridos de se
 
 ## Observaciones 👁️
 
-* En este repositorio solo se encuentra el codigo del proyecto. La pagina con sus respectivas funcionalidades estan alojados en webhost000
-* No hay ninguna conexion de este repositorio con webhost000
-* Se necesita registrar para poder acceder a las demas vistas del proyecto
-* Las demas vistas del proyecto son estaticas 
+* En este repositorio solo se encuentra el codigo del proyecto. La pagina con sus respectivas funcionalidades estan alojados en heroku
+* Para acceder a las altas bajas y cambios se necsitan cuenta de administrador en el sitio
+
