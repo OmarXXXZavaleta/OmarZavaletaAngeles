@@ -1,7 +1,8 @@
-# EmpleosApp 👞🛒
+# EmpleosApp 💼
 ## https://omarzavaleta193241203.herokuapp.com/
 
-Este es un proyecto donde se pone en practica los conocimientos adquiridos de seguridad y encriptacion de contraseñas para poder dar una buena experiencia al usuario
+Este es un proyecto donde se pone en practica los conocimientos adquiridos de altas, bajas cambios y consultas utilizando las funcionalidades de spring para facilitar las tareas.
+Otra funcionalidad particular de este proyecto es la asignancion de tareas edpendiendo  de los rangos que se les asignen a los usuarios.
 
 ## Construido con 🛠️
 
