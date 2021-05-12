@@ -16,5 +16,5 @@ Otra funcionalidad particular de este proyecto es la asignancion de tareas edpen
 ## Observaciones 👁️
 
 * En este repositorio solo se encuentra el codigo del proyecto. La pagina con sus respectivas funcionalidades estan alojados en heroku
-* Para acceder a las altas bajas y cambios se necsitan cuenta de administrador en el sitio
+* Cambiar la raiz del repostiorio a "master" para visualizar los archivos del sitio
 
