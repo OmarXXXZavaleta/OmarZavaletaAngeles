@@ -19,10 +19,10 @@ public class UsuariosServiceImp implements IntUsuariosService {
 		try {
 			Usuario u1 = new Usuario();
 			u1.setId(1);
-			u1.setNombre("Omar");
-			u1.setUsername("omarxxza");
+			u1.setNombre("Elba");
+			u1.setUsername("elba777");
 			u1.setPassword("123456");
-			u1.setEmail("omarxxza@gmail.com");
+			u1.setEmail("elba222@gmail.com");
 			
 			u1.setfechaRegistro(LocalDate.parse("31-01-2021",DateTimeFormatter.ofPattern("dd-MM-yyyy")));
 			u1.setEstatus(1);
