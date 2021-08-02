@@ -30,10 +30,10 @@ public class UsuariosServiceImp implements IntUsuariosService {
 			
 			Usuario u2 = new Usuario();
 			u2.setId(2);
-			u2.setNombre("Pablo");
-			u2.setUsername("galiciaxpb");
+			u2.setNombre("alejandra");
+			u2.setUsername("alejandraxpb");
 			u2.setPassword("123456");
-			u2.setEmail("galiciaxxpb@gmail.com");
+			u2.setEmail("alejandraxxpb@gmail.com");
 			
 			u2.setfechaRegistro(LocalDate.parse("31-02-2021",DateTimeFormatter.ofPattern("dd-MM-yyyy")));
 			u2.setEstatus(1);
@@ -41,10 +41,10 @@ public class UsuariosServiceImp implements IntUsuariosService {
 			
 			Usuario u3 = new Usuario();
 			u3.setId(3);
-			u3.setNombre("alejandra");
-			u3.setUsername("alejandraxxojeda");
-			u3.setPassword("alejandra");
-			u3.setEmail("alejandraxxojeda@gmail.com");
+			u3.setNombre("pablo");
+			u3.setUsername("pabloxxojeda");
+			u3.setPassword("pablo");
+			u3.setEmail("pabloxxojeda@gmail.com");
 			
 			u3.setfechaRegistro(LocalDate.parse("10-09-2021",DateTimeFormatter.ofPattern("dd-MM-yyyy")));
 			u3.setEstatus(0);
